@@ -1,0 +1,9 @@
+{
+  "data": [
+    {"id": 1, "price": "100", "title": "뀨한테 백원 주기", "desc": "수수료가 더 듭니다 직접 주세요", "reward": ""},
+    {"id": 2, "price": "1,000", "title": "뀨한테 천원 주기", "desc": "이것도... 그냥 직접 주세요", "reward": ""},
+    {"id": 3, "price": "10,000", "title": "뀨한테 만원 주기", "desc": "밥 한끼 먹을 수 있는 금액", "reward": "reward"},
+    {"id": 4, "price": "30,000", "title": "뀨한테 삼만원 주기", "desc": "desc3", "reward": "reward"},
+    {"id": 5, "price": "50,000", "title": "뀨한테 오만원 주기", "desc": "desc3", "reward": "reward"}
+  ]
+}

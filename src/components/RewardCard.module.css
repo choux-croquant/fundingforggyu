@@ -1,0 +1,56 @@
+.container {
+  flex-direction: column;
+  justify-content: center;
+  width: 50vw;
+  padding: 2%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border: solid 2px #AE73F2;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  box-shadow: 1px 1px 3px #B1A8B9;
+}
+
+.smallCharacter {
+  display: inline;
+  font-size: 1.5rem;
+}
+.priceText {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #AE73F2;
+}
+
+.titleText {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #2e2e2e;
+  margin-bottom: 6px;
+}
+
+.descText {
+  font-size: 0.8rem;
+  color: #7e7e7e;
+  margin-bottom: 6px;
+}
+
+.rewardText {
+  font-size: 0.8rem;
+  color: #AE73F2;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 80vw;
+    padding: 4%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+}
+
+@media (hover: hover) {
+  .container:hover {
+    background-color: #f9e9ff;
+  }
+}
