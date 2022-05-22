@@ -5,16 +5,15 @@
 }
 
 .carousel {
-  height: 30vh;
+  height: 32vh;
 }
 
 .slide {
-  height: 30vh;
+  height: 32vh;
 }
 
 img {
-  height: 30vh;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 @media screen and (max-width: 768px) {

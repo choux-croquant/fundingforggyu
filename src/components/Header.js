@@ -15,13 +15,7 @@ const Header = () => {
         showIndicators={false}
         showThumbs={false}>
         <div className={styles.slide}>
-          <img src="/background.jpg" alt="aa" />
-        </div>
-        <div className={styles.slide}>
-          <img src="/background.jpg" alt="aa" />
-        </div>
-        <div className={styles.slide}>
-          <img src="/background.jpg" alt="aa" />
+          <img src="/fundingBanner.png" alt="생일 축하 펀딩을 알리는 광고" />
         </div>
       </Carousel>
     </div>
