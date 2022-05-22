@@ -4,8 +4,34 @@
   background-color: blueviolet;
 }
 
+.carousel {
+  height: 30vh;
+}
+
+.slide {
+  height: 30vh;
+}
+
+img {
+  height: 30vh;
+  object-fit: cover;
+}
+
 @media screen and (max-width: 768px) {
   .container {
     height: 25vh;
+  }
+
+  .carousel {
+    height: 25vh;
+  }
+
+  .slide {
+    height: 25vh;
+  }
+
+  img {
+    height: 25vh;
+    object-fit: cover;
   }
 }

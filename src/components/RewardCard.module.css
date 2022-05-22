@@ -15,6 +15,7 @@
   display: inline;
   font-size: 1.5rem;
 }
+
 .priceText {
   font-size: 1.2rem;
   font-weight: 700;
@@ -44,7 +45,6 @@
   .container {
     width: 80vw;
     padding: 4%;
-    margin-top: 2%;
     margin-bottom: 2%;
   }
 }

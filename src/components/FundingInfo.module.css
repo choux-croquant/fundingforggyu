@@ -6,6 +6,7 @@
   margin-top: 2%;
   padding: 2%;
   width: 50vw;
+  color: #2e2d30;
 }
 
 .coloredText {
@@ -22,6 +23,7 @@
 .secondPhrase {
   font-size: 2rem;
   font-weight: 700;
+  margin-bottom: 2%;
 }
 
 @media screen and (max-width: 768px) {
@@ -38,8 +40,9 @@
   }
 
   .secondPhrase {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
     padding: 2%;
+    margin-bottom: 0;
   }
 }
