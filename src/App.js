@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className={styles.App}>
-      <header>
+      <header className={styles.headerStyle}>
         <Header></Header>
       </header>
       <section className={styles.infoContainer}>
